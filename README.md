@@ -1,0 +1,1 @@
+# The program counts how many times the number 2 occurs in the array
